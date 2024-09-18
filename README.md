@@ -1,4 +1,4 @@
-# Aphrodite
+# KoGaMaSuite
 > A formerly private suite of tools, originally developed for exclusive use by the ``DVRKZ`` inner circle. <br>
 > Majority of the scripts visible come from either late 2023 or mid 2024. <br>
 > All of the tools have been developed by [Coffescrpt (Simon)](https://github.com/coffeescrpt/)
