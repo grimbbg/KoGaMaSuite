@@ -11,8 +11,10 @@
 > [!NOTE]
 > List of available tools: <br>
 > [Reverse](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/ScriptReverse) - Python tool that attempts to deobfuscate `.js` scripts and tries to automatically look for suspicious patterns from an array. <br>
-> 
-> 
+> [Preset Text](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TextHotkey) - Python tool that allows you to create presets (hotkey : text) that on click will set / write out the text. Works with WebGL-frames. <br>
+> [MassComment](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/MassComment) - Python tool that allows to spread comments under multiple defined games as well as preset comment content per account. <br>
+> [MassDescription](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/MassDescription) - Python tool that allows you to change description of many accounts at once. <br>
+> [MassInvite](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TargetInvite) - Python tool that allows you to spam invite specified profile / user.
 
 
 > [!WARNING]
