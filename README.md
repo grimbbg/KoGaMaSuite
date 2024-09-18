@@ -1,2 +1,2 @@
-# DVRKZ
-A collection of tools meant to fool around with KoGaMa
+# Aphrodite
+A collection of tools that were initially private and meant for use only within DVRKZ member circle.
