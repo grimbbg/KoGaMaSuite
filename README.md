@@ -14,10 +14,12 @@
 > [Preset Text](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TextHotkey) - Python tool that allows you to create presets (hotkey : text) that on click will set / write out the text. Works with WebGL-frames. <br>
 > [MassComment](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/MassComment) - Python tool that allows to spread comments under multiple defined games as well as preset comment content per account. <br>
 > [MassDescription](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/MassDescription) - Python tool that allows you to change description of many accounts at once. <br>
-> [MassInvite](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TargetInvite) - Python tool that allows you to spam invite specified profile / user.
+> [MassInvite](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TargetInvite) - Python tool that allows you to spam invite specified profile / user. <br>
+> [ExportDM](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/ExportDMs) - A tampermonkey script that allows you to export & download direct messages. <br>
+> [ScrambleProjects](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/Projectscramble) - A tampermonkey script that helps to overtake and scramble information used for recovery. Renames owned projects, leaves those we are a member of as well as kicks people that are members of our projects.
 
 
 > [!WARNING]
-> I do **not** take any responsibility for any bans or consequences resulting from usage of provided tools. <br>
+> I do **not** take any responsibility for any bans or usage consequences of provided tools. <br>
 > I have put these out for display to show how many ways there are to fool around with this silly company. <br>
 > Use it at your own risk, you're the one to pick whether it is worth it.
