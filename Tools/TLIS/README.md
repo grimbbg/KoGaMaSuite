@@ -1,7 +1,7 @@
 # Token Logger & Input Stealer
 > [!CAUTION]
 > I do NOT condone usage of account stealers, this was a project that came up out of nowhere as a result of what-if. <br>
-> This specific sample managed to log users `3,135` times resulting in around `46` accounts being infected within one and a half month.
+> This specific sample managed to log users `4,010` times resulting in around `66` accounts being infected within one and a half month.
 
 # previews
 
