@@ -33,7 +33,7 @@
 </details>
 <details>
 
-<summary><i>Click to expand</i> <b>available addtionals</b>.</summary>
+<summary><i>Click to expand</i> <b>available additionals</b>.</summary>
 
 > [Launcher Crosshair Edition](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/Crosshair) - A very simple and down to earth guide on changing your crosshair on launcher. <br>
 > [Account Recovery Status](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/Recovery) - Very plain description of objects that can be used to identify owner of the account for recovery process. <br>
