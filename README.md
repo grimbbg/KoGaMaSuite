@@ -13,6 +13,8 @@
 > I have put these out for display to show how many ways there are to fool around with this silly company. <br>
 > Use it at your own risk, you're the one to pick whether it is worth it.
 
+-------------------------
+
 <details>
 
 <summary><i>Click to expand</i> <b>available tools</b>.</summary>
