@@ -12,7 +12,7 @@ Highly customizable snippet to scrape comments from a chosen game (object-id). <
         gameId: '2593313', // OBJECT ID
         totalPages: 300, // YOUR AMOUNT OF PAGES
         webhookUrl: 'WEBHOOK', // YOUR WBHK
-        count: 400, // DO NOT CHANGE
+        count: 13, // BATCH OF PAGES PER ACTION. CHANGE ON YOUR OWN EXPERIMENTATIONAL RISK.
         baseUrl: 'https://www.kogama.com/game/$gameid/comment/' // DO NOT CHANGE
     };
 
