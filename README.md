@@ -28,6 +28,7 @@
 > [ScrambleProjects](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/Projectscramble) - A tampermonkey script that helps to overtake and scramble information used for recovery. Renames owned projects, leaves those we are a member of as well as kicks people that are members of our projects. <br>
 > [TLIS](https://github.com/coffeescrpt/Aphrodite/tree/main/Tools/TLIS) - A tampermonkey malware sample meant to steal and log accounts. Somewhat advanced sample in comparison to other known stealers. <br>
 > [LookUp](https://github.com/coffeescrpt/KGMLookup) - A public version of a tool that allows you to view **very basic** information about an user. Possibly full version will be realesed sometime soon. <br>
+> [FindMyToken](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tools/FindMyToken) - Easily find token of your account by simply joining the game through WEBGL while having it enabled. <br>
 > <br> *There's a possibility I will post more tools although I am not fully certain yet.*
 
 
