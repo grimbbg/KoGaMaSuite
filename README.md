@@ -41,8 +41,6 @@
 > [Launcher Crosshair Edition](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/Crosshair) - A very simple and down to earth guide on changing your crosshair on launcher. <br>
 > [Account Recovery Status](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/Recovery) - Very plain description of objects that can be used to identify owner of the account for recovery process. <br>
 > [Game Comment Scrape V1](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/GComments) - A very `alpha` snippet that allows you to scrape comments under provided game from YYY pages.  <br>
-> [Perplex](https://github.com/coffeescrpt/KoGaMaSuite/tree/main/Tooltips/perplex) - My most recent and smoothly dark KoGaMa Website theme. Currently the only theme of mine that works. <br>
-
 
 
 </details>
